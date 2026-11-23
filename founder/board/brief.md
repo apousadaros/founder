@@ -1,27 +1,27 @@
-# Brief para el consejo — Etikoando
+# Brief para el consejo — Drop
 
 Este documento es autosuficiente: es todo lo que el fundador ha contado.
 
 ## La idea, en palabras del fundador
-"Quiero montar una empresa llamada Etikoando que es un marketplace de ropa sostenible. La marca ya está registrada y la página web, y la misión es hacer un Zalando solo de ropa sostenible. Tengo ahorrados 30.000 euros."
+"La última idea es una empresa que se llame Drop. Sería venderlo a los sistemas operativos tanto de Suunto, Garmin, Coros, incluso Google Maps, para que tengan la posibilidad de detectar fuentes públicas. Incluso poder añadir en los relojes la posibilidad de hacer rutas con x avituallamientos."
 
 ## Ficha
-- Nombre: Etikoando
-- Producto: marketplace online de ropa sostenible. Referencia citada por el fundador: Zalando (gran tienda online de moda multimarca); la diferencia que propone es vender solo ropa sostenible.
-- Cliente: personas que quieren comprar ropa sostenible online. Segmento exacto sin concretar.
-- Precio / modelo de ingresos: sin fijar. No se sabe si las marcas venden directamente (comisión), si Etikoando compra stock y revende, o ambas.
-- Canal: solo online, envío a domicilio. Captación sin definir.
-- Mercado: no especificado; el fundador escribe en español (probablemente España, sin confirmar).
-- Capital: 30.000 € de ahorros propios.
-- Ya hecho: marca registrada y página web creada (no se ha dicho en qué estado está la web: si vende ya, si tiene catálogo o marcas).
+- Nombre: Drop
+- Producto:
+  1. Detección de fuentes de agua públicas, para integrarla en el software de relojes deportivos y en apps de mapas.
+  2. Planificación de rutas con un número elegido de avituallamientos (puntos de agua) en el reloj.
+- Cliente que paga: empresas. Las nombradas por el fundador: Suunto, Garmin, Coros (relojes deportivos) y Google Maps (mapas).
+- Usuario final: deportistas de resistencia que necesitan agua en ruta (se entiende running, trail, ciclismo). Segmento exacto sin concretar.
+- Precio / modelo de ingresos: sin fijar (licencia, API por uso, venta de datos, reparto de ingresos: por decidir).
+- Mercado: no especificado; el fundador escribe en español (probablemente España como punto de partida, sin confirmar).
+- Capital: no indicado para esta idea. En ideas anteriores el fundador mencionó 30.000 € de ahorros propios; sin confirmar que se apliquen aquí.
 
 ## Lo que NO se sabe todavía (no inventar)
-- Qué marcas venderían en la plataforma y si ya hay alguna comprometida.
-- Qué criterio define "sostenible" (certificaciones, materiales, producción local, segunda mano...) y quién lo verifica.
-- Quién gestiona stock, envíos y devoluciones (la marca o Etikoando).
-- Comisiones, márgenes, coste de adquisición de cliente.
-- Competidores concretos y sus precios (lo investigará /founder-competitors).
-- Tamaño de mercado y demanda real (lo probará /founder-consumer).
-- Equipo y experiencia del fundador.
+- De dónde salen los datos de las fuentes (datos abiertos, ayuntamientos, comunidad de usuarios, mapas colaborativos...), cómo se verifica que funcionan y que el agua es potable, y cómo se mantienen al día.
+- Si "detectar" significa una base de datos de ubicaciones o algún tipo de tecnología de detección.
+- Si esas empresas ya ofrecen algo parecido (lo investigará /founder-competitors).
+- Si existe un prototipo, equipo técnico o contactos con esas empresas.
+- Precio, cuánto pagaría cada cliente, ciclo de venta (lo trabajarán /founder-pricing y /founder-cfo).
+- Si los deportistas lo valoran lo bastante como para que las marcas paguen (lo probará /founder-consumer).
 
 Idioma: escribe tu memo en español.
