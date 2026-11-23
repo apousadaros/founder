@@ -1,22 +1,27 @@
-# Brief para el consejo — recarga+
+# Brief para el consejo — Second Lap
 
 Este documento es autosuficiente: es todo lo que el fundador ha contado.
 
 ## La idea, en palabras del fundador
-"Quiero montar una empresa de gel deportivo recargable llamada recarga+. Se vendería un gel de 1 L junto con 3 botes de 1, 3 y 5 dosis recargables. La idea sería tener un abridor en el gel de 1 L e ir echándote en las botellas recargables. Lo vendo a deportistas por menos €/L que si se compraran 1 L de geles individuales. Lo vendería de forma online. Tengo ahorrados 50.000 € para empezar."
+"Quiero montar una empresa llamada Second Lap que sea un marketplace de segunda mano solo de deporte, parecido a BuyCycle pero orientado a todos los deportes. En la propia plataforma habría productos que nosotros mismos hayamos comprado y los vendemos, o damos la opción al usuario de subir su propio material para venderlo él mismo. Sería todo online. Tengo ahorrados 30.000 euros."
 
 ## Ficha
-- Nombre: recarga+
-- Producto: envase de 1 L de gel energético con abridor/dosificador + 3 botes rellenables (capacidad de 1, 3 y 5 dosis). Se entiende que después se venden recargas de 1 L.
-- Cliente: deportistas (en la práctica, deportistas de resistencia que usan geles: running, ciclismo, triatlón, trail). Segmento exacto sin concretar.
-- Precio: sin fijar. Promesa: menor €/L que comprar el mismo volumen en geles monodosis.
-- Canal: solo online. Plataforma concreta sin decidir.
+- Nombre: Second Lap
+- Producto: marketplace online de material deportivo usado, multideporte, con modelo híbrido:
+  - Stock propio: la empresa compra material usado y lo revende.
+  - Venta entre particulares: los usuarios publican su material y lo venden ellos mismos a través de la plataforma.
+- Referencia citada por el fundador: BuyCycle (marketplace de bicicletas de segunda mano). Diferencia que propone: todos los deportes, no solo ciclismo.
+- Cliente: deportistas que compran o venden material usado. Segmento exacto sin concretar.
+- Precio / modelo de ingresos: sin fijar (comisión por venta, tarifas, margen sobre stock propio: por decidir).
+- Canal: solo online, envío a domicilio. Captación sin definir.
 - Mercado: no especificado; el fundador escribe en español (probablemente España, sin confirmar).
-- Capital: 50.000 € de ahorros propios.
+- Capital: 30.000 € de ahorros propios.
 
 ## Lo que NO se sabe todavía (no inventar)
-- Si el gel se fabrica en propio o con un fabricante externo; formulación; coste por litro.
-- Precio de venta, márgenes, coste de adquisición de cliente.
+- Qué deportes o categorías se lanzan primero.
+- Cómo se verifica el estado del material, quién gestiona envíos, devoluciones y pagos.
+- Si habrá almacén para el stock propio y cuánto stock se compraría.
+- Comisiones, márgenes, coste de adquisición de cliente (comprador y vendedor).
 - Competidores concretos y sus precios (lo investigará /founder-competitors).
 - Tamaño de mercado y demanda real (lo probará /founder-consumer).
 - Equipo y experiencia del fundador.
