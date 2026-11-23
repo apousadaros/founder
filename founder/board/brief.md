@@ -1,24 +1,29 @@
-# Brief para el consejo — recarga+
+# Brief para el consejo: Gel multidosis (nombre provisional)
 
-Este documento es autosuficiente: es todo lo que el fundador ha contado.
+Este brief es todo lo que el consejo sabe del proyecto. Todo lo que no aparece aquí no se sabe todavía.
 
 ## La idea, en palabras del fundador
-"Quiero montar una empresa de gel deportivo recargable llamada recarga+. Se vendería un gel de 1 L junto con 3 botes de 1, 3 y 5 dosis recargables. La idea sería tener un abridor en el gel de 1 L e ir echándote en las botellas recargables. Lo vendo a deportistas por menos €/L que si se compraran 1 L de geles individuales. Lo vendería de forma online. Tengo ahorrados 50.000 € para empezar."
 
-## Ficha
-- Nombre: recarga+
-- Producto: envase de 1 L de gel energético con abridor/dosificador + 3 botes rellenables (capacidad de 1, 3 y 5 dosis). Se entiende que después se venden recargas de 1 L.
-- Cliente: deportistas (en la práctica, deportistas de resistencia que usan geles: running, ciclismo, triatlón, trail). Segmento exacto sin concretar.
-- Precio: sin fijar. Promesa: menor €/L que comprar el mismo volumen en geles monodosis.
-- Canal: solo online. Plataforma concreta sin decidir.
-- Mercado: no especificado; el fundador escribe en español (probablemente España, sin confirmar).
-- Capital: 50.000 € de ahorros propios.
+> "Quiero montar una empresa de nutrición deportiva, específicamente geles, en la que el packaging sea un sobre transparente con varias dosis según lo que hayas bebido y puedas cerrar y abrirlo para usarlo durante la carrera. Así, en vez de llevar 3 geles, solo llevarías uno de 3 dosis. Lo vendo a deportistas por una cantidad más baja que comprarse tres geles y lo vendería tanto online como offline. Tengo ahorrado 30.000 euros."
 
-## Lo que NO se sabe todavía (no inventar)
-- Si el gel se fabrica en propio o con un fabricante externo; formulación; coste por litro.
-- Precio de venta, márgenes, coste de adquisición de cliente.
-- Competidores concretos y sus precios (lo investigará /founder-competitors).
-- Tamaño de mercado y demanda real (lo probará /founder-consumer).
-- Equipo y experiencia del fundador.
+## Ficha de la idea
 
-Idioma: escribe tu memo en español.
+- **Qué es:** un gel energético deportivo en un sobre transparente de varias dosis que se abre y se vuelve a cerrar durante la carrera. Un solo sobre de 3 dosis sustituye a 3 geles monodosis.
+- **El envase:** transparente, para que el deportista vea cuánto le queda. Recerrable, para tomar una dosis, cerrarlo y guardarlo hasta la siguiente. El fundador habla de "varias dosis según lo que hayas bebido". Puede referirse a que el sobre muestra o marca las dosis según lo que ya se ha consumido, o a ajustar la toma a lo que se ha bebido. Esto está por aclarar.
+- **Para quién:** deportistas que usan geles en competición y entrenamiento (corredores y, en general, deportes de resistencia). Falta concretar el segmento: disciplina, nivel, distancia y cuántos geles gasta cada uno.
+- **Qué vende y a qué precio:** sobre de 3 dosis (quizá otros tamaños). El precio no está fijado. La promesa es que salga más barato que comprar 3 geles monodosis.
+- **Dónde y cómo:** online y offline (tiendas físicas). Los canales concretos no están decididos. El mercado no se ha especificado. El fundador escribe en español, así que se supone que el mercado inicial es España, pero hay que confirmarlo.
+- **Presupuesto:** 30.000 € de ahorros propios.
+
+## Lo que todavía no se sabe
+
+- Si el gel lo fabrica el propio fundador o un fabricante externo (maquila o marca blanca), y con qué fórmula.
+- Quién fabrica el sobre recerrable, cuánto cuesta por unidad y qué pedido mínimo exige.
+- Cuánto aguanta el gel una vez abierto el sobre durante la carrera, y si el cierre aguanta en movimiento, con sudor y con las manos pegajosas.
+- El equipo, la dedicación del fundador (tiempo completo o parcial) y su experiencia en el sector.
+- Los precios reales de la competencia y si ya existen geles multidosis o recerrables en el mercado.
+- El nombre definitivo de la marca.
+
+## Idioma
+
+Escribe todo el memo en español.
